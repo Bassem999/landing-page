@@ -14,6 +14,7 @@ export default () => {
   const links = [
     "home",
     "project",
+    "bassem",
     "services",
     "about",
     "blog",
